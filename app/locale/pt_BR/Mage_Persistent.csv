@@ -1,0 +1,64 @@
+"""Remember Me"" Default Value","""Remember Me"" Valor Padrão"
+"(Not %s?)","(Não é %s?)"
+"* Required Fields","* Campos Obrigatórios"
+Address,Endereço
+"Address Information","Informações de Endereço"
+"Already registered?","Já possui uma conta?"
+Back,Voltar
+"By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.","Ao criar uma conta na nossa loja, você será capaz de fechar uma compra com mais agilidade, cadastrar diversos endereços de entrega, acompanhar seus pedidos, entre outras vantagens."
+"Cannot load configuration from file %s.","Não é possível carregar a configuração de %s arquivo."
+"Checkout as Guest","Finalizar Como Visitante"
+"Checkout as a Guest or Register","Criar Sua Conta"
+City,Cidade
+"Clear Persistence on Log Out","Persistência claras sobre Log Out"
+Close,Fechar
+Company,Empresa
+"Confirm Password","Confirmar Senha"
+Continue,Continuar
+Country,País
+"Create an Account","Criar Conta"
+"Easy access to your order history and status","Acompanhe seus pedidos e guarde históricos"
+"Email Address","Endereço de Email"
+"Enable ""Remember Me""","Enable ""Remember Me"""
+"Enable Persistence","Habilitar Persistência"
+"Fast and easy check out","Fechar pedidos com maior agilidade"
+Fax,Fax
+"Forgot Your Password?","Esqueceu sua Senha?"
+"Forgot your password?","Esqueceu sua senha?"
+"General Options","Opções Gerais"
+"If you have an account with us, please log in.","Se já possui uma conta, informe os dados de acesso."
+"Loading next step...",Carregando...
+Login,Entrar
+"Login Information","Dados de Acesso"
+"Login or Create an Account","Cadastre-se ou Acesse sua conta"
+"New Customers",Cadastre-se
+Password,Senha
+"Persist Shopping Cart","Persistem Carrinho de Compras"
+"Persistence Lifetime (seconds)","Lifetime persistência (segundos)"
+"Persistent Shopping Cart","Carrinho de Compras persistente"
+"Personal Information","Informação Pessoal"
+"Please log in below:","Informe abaixo:"
+"Please select region, state or province","Selecione um Estado..."
+Register,Cadastrar
+"Register and save time!","Ganhe Tempo!"
+"Register to Create an Account","Criar Conta"
+"Register with us for future convenience:","Aproveite as Vantagens de Ser Cliente:"
+"Registered Customers","Minha Conta"
+"Remember Me","Lembrar de Mim"
+"Save in address book","Salvar este endereço em minha conta"
+"Select State/Province...","Selecione Estado..."
+"Select a billing address from your address book or enter a new address.","Escolha um endereço de cobrança cadastrado ou crie um novo."
+"Ship to different address","Entregar em Outro Endereço"
+"Ship to this address","Entregar no Mesmo Endereço"
+"Shopping cart has been updated with appropriate prices","Carrinho de compras foi atualizado com preços adequados"
+"Sign Up for Newsletter","Desejo receber ofertas por email"
+State/Province,Estado
+"Street Address",Rua
+"Street Address %s","Rua %s"
+Submit,"Enviar  "
+Telephone,Telefone
+"To proceed to Checkout, please log in using your email address.","Para continuar a fazer check-out, efetue login usando seu endereço de e-mail."
+"VAT Number","Número de VAT"
+"Welcome, %s!","Bem-vindo, %s!"
+"What\'s this?","O que \ 's isso?"
+"Zip/Postal Code",Cep

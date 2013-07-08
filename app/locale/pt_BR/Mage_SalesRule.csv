@@ -1,0 +1,132 @@
+"%d Shopping Cart Price Rules based on ""%s"" attribute have been disabled.","%d Regra de Preço no Carrinho de Compras baseado em ""%s"" atributos foi desabilitado."
+"%s Coupon(s) have been generated","%s Eventualidade foram geradas"
+Actions,Ações
+Active,Ativo
+"Add New Rule","Criar Regra"
+Alphabetical,"Ordem alfabética"
+Alphanumeric,Alfanumérico
+"An error occurred while generating coupons. Please review the log and try again.","Ocorreu um erro ao gerar cupons. Por favor, revise o log e tente novamente."
+Apply,Aplicar
+"Apply To","Aplicar Para"
+"Apply the rule only if the following conditions are met (leave blank for all products)","Aplicar regra somente para as seguintes condições (deixe em branco para todos os produtos)"
+"Apply the rule only to cart items matching the following conditions (leave blank for all items)","Aplicar somente para os itens do carrinho com as condições abaixo (deixe em branco para todos os itens)"
+"Apply the rule to cart items matching the following conditions","Aplicar regra para os itens do carrinho que coincidem com as seguintes condições"
+"Apply to Shipping Amount","Aplicar ao Valor de Entrega"
+"Are you sure you want to delete the selected coupon(s)?","Tem a certeza de que deseja excluir a eventualidade selecionada?"
+Auto,Auto
+"Auto Generated Specific Coupon Codes","Auto gerado específicas cupom códigos"
+"Buy X get Y free (discount amount is Y)","Compre X leve Y Grátis"
+"By Fixed value","Por valor fixo"
+"By Percentage","Por Porcentagem"
+"Can\'t acquire coupon.","Não foi possível obter o cupom."
+"Cart Attribute","Atributos carrinho"
+Catalog,Catálogo
+"Code Format","Formato de código"
+"Code Length","Comprimento de código"
+"Code Prefix","Prefixo do código"
+"Code Suffix","Sufixo do código"
+Conditions,Condições
+"Conditions combination","Condições combinação"
+Coupon,Cupom
+"Coupon Code","Código Cupom"
+"Coupon Qty","Cupom Quant"
+"Coupon with the same code","Cupom com o mesmo código"
+"Coupons Information","Informações de cupons"
+"Created On","Criado em"
+"Customer Groups","Grupo de Clientes"
+"Dash Every X Characters","Traço todos os x caracteres"
+"Date Expire","Data Fim"
+"Date Start","Data Início"
+"Default Label","Legenda Padrão"
+"Default Rule Label for All Store Views","Legenda para todas as visões"
+Description,Descrição
+"Discount Amount","Valor do Desconto"
+"Discount Qty Step (Buy X)","Qtd de Produtos (Compre X)"
+"Edit Rule","Editar Regra"
+"Edit Rule '%s'","Editar Regra '%s'"
+"Excluding prefix, suffix and separators.","Excluindo prefixo, sufixo e separadores."
+FOUND,ENCONTRADO
+"Fixed amount discount","Valor Fixo"
+"Fixed amount discount for whole cart","Valor Fixo para Todo Carrinho"
+"For matching items only","Apenas para os produtos"
+"For shipment with matching items","Para entrega com itens igual &agrave;"
+"Free Shipping","Frete Grátis"
+"From Date","Da Data"
+"General Information","Informações Gerais"
+Generate,Gerar
+ID,ID
+"If %s %s %s for a subselection of items in cart matching %s of these conditions:","Se %s %s %s para uma Subseleção de itens no carrinho de correspondência %s destas condições:"
+"If an item is %s in the cart with %s of these conditions true:","Se um item é %s no carrinho com %s true estas condições:"
+"If empty no separation.","Se esvaziar sem separação."
+"If you select and save the rule you will be able to generate multiple coupon codes.","Se você selecionar e salvar a regra, você será capaz de gerar vários códigos de cupom."
+Inactive,Inativo
+"Item totals are not set for rule.","Total de itens não foi especificado para esta regra."
+Labels,Legendas
+"Manage Coupon Codes","Gerenciar cupom códigos"
+"Maximum Qty Discount is Applied To","Máx. de Produtos com Desconto"
+"NOT FOUND","NÃO ENCONTRADO"
+"NOT LOGGED IN","QUALQUER UM"
+"New Rule","Nova Regra"
+No,Não
+"No Coupon","Sem Cupom"
+"Not valid data provided","Dados não válidos desde que"
+"Number of Uses","Número de Usos"
+Numeric,Numérico
+"Payment Method","Forma de Pagamento"
+"Percent of product price discount","Valor Percentual %"
+Period,Período
+"Price in cart","Preço no carrinho"
+Priority,Prioridade
+"Product attribute combination","Combinação de atributos de produto"
+"Products subselection","Sub-seleção de Produtos"
+Promotions,Promoções
+"Public In RSS Feed","Publicar na Lista RSS"
+"Quantity in cart","Quantidade no carrinho"
+"Row total in cart","Total de linhas no carrinho"
+"Rule Information","Informações da Regra"
+"Rule Name","Nome da Regra"
+"Rule is not defined","Regra não está definida"
+"Sales Discount Amount","Valor Desconto da Venda"
+"Sales Subtotal Amount","Valor no Subtotal da Venda"
+"Sales Total Amount","Valor Total da Venda"
+"Save and Continue Edit","Salvar e Continuar"
+"Shipping Country","País de Entrega"
+"Shipping Method","Forma de Entrega"
+"Shipping Postcode","CEP Entrega"
+"Shipping Region","Região Entrega"
+"Shipping State/Province","Entrega Estado/Cidade"
+"Shopping Cart Price Rule","Regras da Promoção"
+"Shopping Cart Price Rules","Promoção de Carrinho"
+"Special Price","Preço especial"
+"Specific Coupon","Cupom Específico"
+Status,Status
+"Stop Further Rules Processing","Aplicar Somente esta Regra"
+"Store View Specific Labels","Legenda Específica por Visão"
+Subtotal,Subtotal
+"Subtotal Amount","Valor Subtotal"
+"The rule has been deleted.","A regra foi excluída com sucesso."
+"The rule has been saved.","A regra foi salva com sucesso."
+"This rule no longer exists.","Esta regra não existe mais."
+"Times Used","Vezes usados"
+"To Date","Para Data"
+"To Fixed Value","Valor Fixo"
+"To Percentage",Porcentagem
+Total,Total
+"Total Amount","Valor Total"
+"Total Items Quantity","Quantidade de Itens Total"
+"Total Weight","Peso Total"
+"Unable to create requested Coupon Qty. Please check settings and try again.","Não é possível criar solicitada cupom Qtd. Por favor, verifique as configurações e tente novamente."
+"Unable to find a rule to delete.","Não foi possível encontrar a página para excluir"
+"Update prices using the following information","Atualizar os Preços com as Informações Abaixo"
+"Update product's %s %s: %s","Atualizar produtos %s %s: %s"
+"Update the Product","Atualizar o Produto"
+"Use Auto Generation","Geração automática de uso"
+Used,Usado
+"Uses per Coupon","Usos por cupom"
+"Uses per Customer","Usos por cliente"
+Website,Website
+Websites,Sistemas
+"Wrong rule specified.","Regra especificada errada."
+Yes,Sim
+"total amount","montante total"
+"total quantity","quantidade total"

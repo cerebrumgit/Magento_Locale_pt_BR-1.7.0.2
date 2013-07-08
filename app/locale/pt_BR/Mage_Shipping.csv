@@ -1,0 +1,92 @@
+" for more information or "," para mais informações ou "
+"# of Items (and above)","# de Itens (e mais)"
+"# of Items vs. Destination","# de Itens vs. Destino"
+"Allow Shipping to Multiple Addresses","Permitir Entrega para Vários Endereços"
+"An error occurred while import table rates.","Um erro ocorreu enquanto importava tabela fixa."
+"Calculate Handling Fee","Calcular taxa de manipulação"
+Carrier:,Transporte:
+City,Cidade
+"Close Window","Fechar Janela"
+Condition,Condição
+Country,Pais
+Date,Data
+"Delivered on:","Entregar em:"
+"Delivered to:","Entregar para:"
+Description,Descrição
+"Displayed Error Message","Mostrar mensagem de erro"
+"Divide to equal weight (one request)","Dividir de igual peso (uma solicitação)"
+"Duplicate Row #%s (Country ""%s"", Region/State ""%s"", Zip ""%s"" and Value ""%s"").","Duplicar linha # %s (país ""%s"", região/estado ""%s"", CEP ""%s"" e o valor ""%s"")."
+Enabled,Habilitado
+Error:,Erro:
+Export,Exportar
+"File has not been imported. See the following list of errors: %s","Arquivo não foi importado. Consulte a seguinte lista de erros: %s"
+Fixed,Fixo
+"Flat Rate","Taxa Fixa"
+"Free Shipping","Entrega Grátis"
+"Google Sitemap Section","Seção Google Sitemap"
+"Handling Fee",Manipulação
+Import,Importar
+"Include Virtual Products in Price Calculation","Incluir produto virtual no calculo de preço"
+Info:,Info:
+"Invalid %s ""%s"" in the Row #%s.","Inválido %s ""%s"" na linha # %s."
+"Invalid Country ""%s"" in the Row #%s.","País inválido ""%s"" na linha # %s."
+"Invalid Region/State ""%s"" in the Row #%s.","Região/estado inválido ""%s"" na linha # %s."
+"Invalid Shipping Price ""%s"" in the Row #%s.","Inválido envio preço ""%s"" na linha # %s."
+"Invalid Table Rate code for type %s: %s","Tipo de código tabela de preço inválido para o tipo %s: %s"
+"Invalid Table Rate code type: %s","Tipo de código tabela de preço inválido: %s"
+"Invalid Table Rates File Format","Tabela de preço e formato de arquivo inválido"
+"Invalid Table Rates format in the Row #%s","Taxas de quadro inválido Formatar na linha # %s"
+"Local Time","Hora local"
+Location,Localização
+"Maximum Qty Allowed for Shipping to Multiple Addresses","Máximo de Endereços Simultâneos Permitidos"
+"Method Name","Nome do método"
+"Minimum Order Amount","Minimo total pedido"
+N/A,N/A
+None,Nenhum
+Options,"Opções de Endereçamento"
+"Order Subtotal (and above)","Ordem Subtotal (e acima)"
+Origin,"Origem da Entrega"
+"Per Order","Por ordem"
+"Per Package","Por pacote"
+Percent,Porcentagem
+Price,Preço
+"Price vs. Destination","Preço vs. Destino"
+Region/State,Estado
+"Service Type:","Tipo de serviço:"
+"Ship to Applicable Countries","Entrega aplicado países"
+"Ship to Specific Countries","Entrega para específicos países"
+"Shipment #","Entrega #"
+"Shipment Tracking Popup","Rastrear entrega Popup"
+"Shipped or billed on:","Entregado ou faturado em:"
+"Shipping Methods","Formas de Entrega"
+"Shipping Methods Section","Seção método entrega"
+"Shipping Settings","Configurações de Entrega"
+"Shipping Settings Section","Seção configuração entrega"
+"Show Method if Not Applicable","Exibir método se não aplicado"
+"Signed by:","Assinado por:"
+"Sort Order",Ordem
+Status:,Status:
+"Store Pickup","Retirar na loja"
+"Street Address",Rua
+"Street Address Line 2","Rua Linha de endereço 2"
+"Table Rates","Preço de Tabela"
+"The shipping module is not available for selected delivery country.","O módulo de entrega não esta disponível para o país selecionado."
+"The shipping module is not available.","O módulo de entrega não esta disponível"
+"There is no tracking available for this shipment.","Não tem rastreador para esta entrega."
+"There is no tracking available.","Não tem rastreador disponível"
+"This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.","Este método de entrega não esta disponível se você deseja usar este método de envio, por favor entre em contato."
+"This shipping method is not available, please specify ZIP-code","Este método de entrega não esta disponível, por favor especifique o CEP"
+Title,Título
+Track:,Rastreador:
+"Tracking Information","Informação Rastreador"
+"Tracking Number:","Número Rastreador:"
+"Tracking information is currently not available. Please ","Informação de rastreador não disponível. Por favor "
+"Tracking information is currently unavailable.","Informação de rastreador não disponível"
+Type,Tipo
+"Use origin weight (few requests)","Usar peso origem (alguns pedidos)"
+"Weight (and above)","Peso (e acima)"
+"Weight vs. Destination","Peso vs. Destino"
+Weight:,Peso:
+"ZIP/Postal Code",CEP
+"contact us","entre em contato"
+"email us at ","email para "
