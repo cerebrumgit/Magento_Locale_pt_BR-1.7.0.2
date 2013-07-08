@@ -657,7 +657,7 @@ Year,Ano
 "You are already logged in.","Você já está conectado."
 "You can watch statistics here.","Veja as estatísticas aqui."
 "You need to enable PayPal Express Checkout first from the Payment configuration before enabling PayPal MECL.","Você precisará habilitar PayPal Express check-out pela primeira vez desde a configuração de pagamento antes de ativar o MECL de PayPal."
-"You will receive an order confirmation email with details of your order and a link to track its progress.","Você vai receber um e-mail com a confirmação do seu pedido e com detalhes da compra e um link para monitorar o andamento dele."
+"You will receive an order confirmation email with details of your order and a link to track its progress.","Você receberá um e-mail com a confirmação e detalhes do seu pedido com link para acompanhamento."
 "Your current balance is:","Seu saldo atual é:"
 "Your order # is: %s. ","Seu pedido # é: %s. "
 "Your review has been accepted for moderation.","Seu comentário foi aceita pela moderação."
